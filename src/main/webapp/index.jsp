@@ -195,7 +195,7 @@
         <div class="banner">
           <h1>DevOps Job Application</h1>
         </div>
-        <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
+        <p class="top-info">Thank you for your interest with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         
         <h2 align="center"> Welcome to Our Organization</h2>
         <h3 align="center">Jenkins Poll SCM Concept</h3>
